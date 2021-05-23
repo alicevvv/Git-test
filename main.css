@@ -1,0 +1,13 @@
+body {
+    background-color: darkcyan;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(44, 75, 77);
+    width: 100vw;
+    height: 100vh;
+}
